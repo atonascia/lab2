@@ -1,0 +1,13 @@
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$integer$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$drawable$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$mipmap$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$layout$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$styleable$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$color$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$color$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$id$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$string$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$style$override.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Andrew\AndroidStudioProjects\Lab2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\andrew\lab2\R$dimen$override.class
